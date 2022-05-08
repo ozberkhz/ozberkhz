@@ -1,8 +1,8 @@
 # İTÜ dersleri ve programlarım
 
-[BLG-102E]()
-[BLG-223E]()
-[BLG-252E]()
+[BLG-102E]()\n
+[BLG-223E]()\n
+[BLG-252E]()\n
 
 <!---
 ozberkhz/ozberkhz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
