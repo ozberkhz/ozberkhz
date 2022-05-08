@@ -1,4 +1,4 @@
-# İTÜ'de verilen kodlama assignmentları ve yazdığım programlar
+# İTÜ dersleri ve programlarım
 
 <!---
 ozberkhz/ozberkhz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
