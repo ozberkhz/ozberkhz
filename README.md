@@ -1,10 +1,12 @@
 # İTÜ dersleri ve programlarım
 
-[BLG-102E](https://github.com/ozberkhz/ozberkhz/projects/2) <br />
-[BLG-223E](https://github.com/ozberkhz/ozberkhz/projects/3) <br />
-[BLG-252E](https://github.com/ozberkhz/ozberkhz/projects/4) <br />
+[BLG-102E](https://github.com/ozberkhz/ozberkhz/tree/main/blg102e) <br />
+[BLG-223E](https://github.com/ozberkhz/ozberkhz/tree/main/blg223e) <br />
+[BLG-252E](https://github.com/ozberkhz/ozberkhz/tree/main/blg252e) <br />
 
 # Diğerleri
+
+[freecodecamp](https://github.com/ozberkhz/ozberkhz/tree/main/freecodecamp) <br />
 
 
 
