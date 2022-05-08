@@ -1,0 +1,67 @@
+- init:
+    run: rm -f q1.o q1
+    blocker: true
+
+- build:
+    run: gcc -std=c99 -Wall -Werror q1.c -o q1
+    blocker: true
+
+- case1:
+    run: ./q1
+    points: 8
+    script:
+        - expect: "Number: "
+        - send: "829"
+        - expect: "Digit: "
+        - send: "5"
+        - expect: "829 does not contain 5."
+
+- case2:
+    run: ./q1
+    points: 8
+    script:
+        - expect: "Number: "
+        - send: "46197"
+        - expect: "Digit: "
+        - send: "1"
+        - expect: "46197 contains 1."
+
+- case3:
+    run: ./q1
+    points: 4
+    script:
+        - expect: "Number: "
+        - send: "7"
+        - expect: "Digit: "
+        - send: "7"
+        - expect: "7 contains 7."
+
+- case4:
+    run: ./q1
+    points: 4
+    script:
+        - expect: "Number: "
+        - send: "7"
+        - expect: "Digit: "
+        - send: "2"
+        - expect: "7 does not contain 2."
+
+- case5:
+    run: ./q1
+    points: 3
+    script:
+        - expect: "Number: "
+        - send: "107"
+        - expect: "Digit: "
+        - send: "0"
+        - expect: "107 contains 0."
+
+- case6:
+    run: ./q1
+    points: 3
+    script:
+        - expect: "Number: "
+        - send: "60"
+        - expect: "Digit: "
+        - send: "0"
+        - expect: "60 contains 0."
