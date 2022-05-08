@@ -3,6 +3,7 @@
 [BLG-102E](https://github.com/ozberkhz/ozberkhz/tree/main/blg102e) <br />
 [BLG-223E](https://github.com/ozberkhz/ozberkhz/tree/main/blg223e) <br />
 [BLG-252E](https://github.com/ozberkhz/ozberkhz/tree/main/blg252e) <br />
+[BLG-242E](https://github.com/ozberkhz/ozberkhz/tree/main/blg242e) <br />
 
 # Diğerleri
 
