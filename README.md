@@ -7,7 +7,7 @@
 
 # Pygame Projesi
 
-[Alien Invasion](https://github.com/ozberkhz/ozberkhz/tree/main/alien%20invasion)
+[Alien Invasion (Project from the book "Python Crash Course"](https://github.com/ozberkhz/ozberkhz/tree/main/alien%20invasion)
 
 # Diğerleri
 
