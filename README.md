@@ -5,6 +5,10 @@
 [BLG-252E](https://github.com/ozberkhz/ozberkhz/tree/main/blg252e) <br />
 [BLG-242E](https://github.com/ozberkhz/ozberkhz/tree/main/blg242e) <br />
 
+# Pygame Projesi
+
+[Alien Invasion](https://github.com/ozberkhz/ozberkhz/tree/main/alien%20invasion)
+
 # Diğerleri
 
 [freecodecamp](https://github.com/ozberkhz/ozberkhz/tree/main/freecodecamp) <br />
